@@ -1,0 +1,7 @@
+/* pages/about/about.wxss */
+.btn {
+  color:#ff2222;
+}
+text {
+  font-size: 100px;
+}
